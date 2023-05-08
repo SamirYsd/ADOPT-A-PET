@@ -1,0 +1,214 @@
+header{
+    background-color: #c7b198;
+    padding: 15px;
+    border-radius: 5px;
+    
+}
+
+
+
+ul{
+    margin: 0;
+    padding: 0;
+    width: 15%;
+    background-color: #6e7d85;
+    padding-bottom: 0;
+    float: left;
+    border-radius: 5px;
+    position: fixed;
+    
+    
+}
+li{
+    display: block;
+    color: black;
+    padding: 10px 12px;
+    border-top: 1px solid rgba(0, 0, 0, 0.427) ;
+    text-align: center;
+    border-radius: 5px;
+    
+
+
+}
+
+.h:hover{
+    
+    background-color: #596e79;
+    color: black;
+
+
+
+}
+footer{
+    background-color: #dfd3c3;
+    padding: 10px;
+    clear: both;
+    
+}
+div{
+    width: 85%;
+    float: right;
+    
+    
+}
+div p{
+    color: #50646e;
+    margin-left: 10px;
+}
+div h1{
+    color: #50646e;
+    margin-left: 25px;
+    
+
+    
+
+}
+h3{
+    color: #50646e;
+    margin-left: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+
+a{
+    color: white;
+    text-decoration: none;
+    display: block;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    background-color: #f0ece2;
+}
+#DogAndCat{
+    width: 160px;
+    float: left;
+    height: 95px;
+    position:relative;
+    
+}
+header h1{
+    
+    top: 18px;
+    bottom: 18px;
+    text-align: center;
+    color: white;
+    padding-right: 65px;
+   
+}
+
+footer p{
+    text-align: center;
+    margin-left: 8%;
+
+}
+#UnderConstruction{
+    margin-top: 50px;
+    margin-left: 200px;
+
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+ 
+#sofa{
+    border-radius: 100px;
+    margin-left: 20%;
+}
+fieldset{
+    margin-left: 25px;
+    background-color: #c7b198;
+    border-radius: 30px;
+    border-color: #c7b198;
+    border: 1px solid #c7b198;
+    
+    
+}
+legend{
+    color: #50646e;
+    font-size: larger;
+    font-weight: bolder;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+span{
+    margin-left: 25px;
+}
+#picture{
+    margin-left: 60%;
+    bottom: 51.2%;
+    height: 200px;
+    width: 250px;
+    position: absolute;
+}
+#Logo1{
+    left: 50%;
+    bottom: 20%;
+    height: 150px;
+    width: 150px;
+    position: absolute;
+}
+#Logo2{
+    left: 50%;
+    bottom: 10%;
+    height: 150px;
+    width: 150px;
+    position: absolute;
+}
+
+#CatPic{
+    margin-left: 60%;
+    bottom: 57.6%;
+    height: 200px;
+    width: 250px;
+    position: absolute;
+    border-radius: 100px;
+
+}
+#DogPic{
+    margin-left: 60%;
+    bottom: 55%;
+    height: 200px;
+    width: 250px;
+    position: absolute;
+    border-radius: 100px;
+    
+}
+#DogMoving{
+    margin-left: 40%;
+    bottom: 70%;
+    height: 200px;
+    width: 250px;
+    position: absolute
+
+}
+#Ragdoll{
+    border-radius: 100px;
+    height: 40%;
+    width: 30%;
+    
+    
+}
+
+#German{
+    border-radius: 100px;
+    height: 40%;
+    width: 30%;
+    
+
+}
+#Persian{
+    border-radius: 100px;
+    height: 30%;
+    width: 30%;
+}
+#Labrador{
+    border-radius: 100px;
+    height: 15%;
+    width: 20%;
+    
+}
+

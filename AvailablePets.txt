@@ -1,0 +1,4 @@
+Cat:Ragdoll:Male:Adult:cf
+Dog:German Shepherd:Female:Adult:df
+Cat:Persian:Male:Adult:cf
+Dog:Labrador:Female:Adult:df
