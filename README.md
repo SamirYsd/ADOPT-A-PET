@@ -1,6 +1,5 @@
 # ADOPT-A-PET (Pet Adoption Center Mock Website)
-This individual academic project involved the development of a website for a fictional pet adoption center. 
-First time developping a website, learned and used HTML, CSS, JavaScript and PHP. Used textfiles as unencrypted databases (Accounts.txt).
+This individual academic project, marking my first experience in website development, involved creating a website for a fictional pet adoption center.
 
 The website can be accessed with the following link: https://adopt-a-petsoen287.000webhostapp.com/A3_SOEN287/Website/Home.php 
 
@@ -12,15 +11,15 @@ The website can be accessed with the following link: https://adopt-a-petsoen287.
 
 # Technologies Used:
 
-HTML & CSS: For structuring and styling the web pages.
-JavaScript: To add interactivity and dynamic content to the website.
-PHP: For server-side scripting and handling form submissions.
-Textfile-Based Database: Utilized unencrypted text files (e.g., Accounts.txt) for storing data in the absence of a traditional database system.
+* HTML & CSS: For structuring and styling the web pages.
+* JavaScript: To add interactivity and dynamic content to the website.
+* PHP: For server-side scripting and handling form submissions.
+* Textfile-Based Database: Utilized unencrypted text files (e.g., Accounts.txt) for storing data in the absence of a traditional database system.
 
 # Learning Outcomes:
 
-Gained hands-on experience in web development, learning the intricacies of HTML, CSS, JavaScript, and PHP.
-Understood the fundamentals of creating and managing a basic database system using text files.
+* Gained hands-on experience in web development, learning the intricacies of HTML, CSS, JavaScript, and PHP.
+* Understood the fundamentals of creating and managing a basic database system using text files.
 
 
 
