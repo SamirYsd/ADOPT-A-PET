@@ -6,9 +6,9 @@ The website can be accessed with the following link: https://adopt-a-petsoen287.
 
 # Key Features:
 
-User-Friendly Interface: A simple, intuitive interface designed for easy navigation and interaction.
-Pet Profiles: Detailed profiles for pets available for adoption, including photos, descriptions, and adoption details.
-Adoption Process Overview: Clear guidelines on how to adopt a pet, fostering a straightforward adoption process.
+* User-Friendly Interface: A simple, intuitive interface designed for easy navigation and interaction.
+* Pet Profiles: Detailed profiles for pets available for adoption, including photos, descriptions, and adoption details.
+* Adoption Process Overview: Clear guidelines on how to adopt a pet, fostering a straightforward adoption process.
 
 # Technologies Used:
 
