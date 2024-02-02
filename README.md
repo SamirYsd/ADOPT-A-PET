@@ -1,7 +1,6 @@
 # ADOPT-A-PET (Pet Adoption Center Mock Website)
 This individual academic project, marking my first experience in website development, involved creating a website for a fictional pet adoption center.
 
-The website can be accessed with the following link: https://adopt-a-petsoen287.000webhostapp.com/A3_SOEN287/Website/Home.php 
 
 # Key Features:
 
