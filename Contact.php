@@ -15,7 +15,6 @@
     <br><br>
     <h3>If you have any questions or would like to communicate with us, do not hesitate to contact us!</h3>
     <p><span style="font-weight: bold;">Name:</span> Samir Younuszada</p>
-    <p><span style="font-weight: bold;">Student ID:</span> 40248181</p>
     <p><span style="font-weight: bold;">Email:</span> samir.2001@hotmail.com</p>
     <p><span style="font-weight: bold;">Phone Number:</span> 1-800-ADOPT-A-PET</p>
     <p><span style="font-weight: bold;">Adress:</span> 123 St-Catherine St W, Montreal, Quebec</p>
